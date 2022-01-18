@@ -1317,7 +1317,7 @@ a.btn-blg:hover {
 }
 
 .contact-sec-1 {
-	text-align: left;
+	text-align: center;
 }
 
 .contact-sec-1 h4 {
@@ -1326,7 +1326,7 @@ a.btn-blg:hover {
 
 .contact-form {
 	display: flex;
-	justify-content: flex-start;
+	justify-content: space-evenly;
 }
 
 .contact-sec-1 ul.contact-form li i.fa {

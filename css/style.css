@@ -1326,7 +1326,7 @@ a.btn-blg:hover {
 
 .contact-form {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-start;
 }
 
 .contact-sec-1 ul.contact-form li i.fa {

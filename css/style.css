@@ -898,6 +898,7 @@ ul.nav li.active a:before {
 	transition-duration: 0s;
 }
 
+
 /* End: Recommended Isotope styles */
 /* disable CSS transitions for containers with infinite scrolling*/
 .isotope.infinite-scrolling {
@@ -913,6 +914,12 @@ ul.nav li.active a:before {
 	padding: 4% 0% 0% 2%;
 	text-align: center
 }
+
+/* .custom-nav{
+	width:80%;
+	background-color:red;
+	padding-right: 20px !important;
+} */
 
 #pricing ul.pricing {
 	list-style: none;
